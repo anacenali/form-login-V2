@@ -1,3 +1,19 @@
-.submit{
-   
+.criarSenha{
+   font-family: verdana;
+   border-radius: 20px;
+   margin: 10px;
+   font-size: medium;
+   text-align: center;
+}
+.Email{
+    font-family: verdana;
+    font-size:larger;
+    text-align: center;
+}
+.seu{
+    font-family: verdana;
+    border-radius: 20px;
+    margin: 10px;
+    font-size:medium ;
+    align-items: center;
 }
