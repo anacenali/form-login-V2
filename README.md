@@ -7,6 +7,8 @@ Criamos um web site para conseguirmos ter contato nossos clientes e estilizamos 
 ## 📄 Descrição do projeto
 Form-login-V2 foi criado durante as aulas de programação web I, anteriormente criamos um web site do nosso form-login, e agora fizemos uma melhora adicionando o "Esqueceu sua senha?". Essa adaptação foi criada para ajudar os nossos clientes caso esqueçam sua senha. O esqueceu sua senha normalmente esta nas páginas iniciais, abaixo do "entrar".
 ## Imagem do site:
+<img src="img1.png" width="50%">
+<img src="img2.png" width="50%">
 <img src="" width="50%">
 
 ## 🛠️ Tecnologias  
