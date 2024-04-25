@@ -11,12 +11,12 @@
 .borda{
     border-radius: 2px;
     border-style: solid;
-    padding: 70px;
+    width: 60%;
     align-items: center;
     margin: 30%;
     margin-top: 2%;
-
-    
+    align-items: center;
+    text-align: center;
 }
 .Email{
     font-family: verdana;
@@ -31,15 +31,18 @@
     font-family: verdana;
     border-radius: 20px;
     margin: 10px;
-    font-size:medium ;
+    font-size: medium;
     padding: 20px;
     margin-top: 90px;
-    position:relative ;
+    position: relative;
     background-color: rgb(255, 252, 249);
-    left: 40%;
    
 }
 body{
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
     background-color: rgb(247, 221, 247);
 }
 
