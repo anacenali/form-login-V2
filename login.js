@@ -1,15 +1,17 @@
-function validarFormulario() {
-    var username = document.getElementById("email").value;
-    var senha = document.getElementById("senha").value;
- 
-    // Verificar se os campos estão vazios
-    if (username.trim() === '' || senha.trim() === '') {
-        alert("Por favor, preencha todos os campos.");
-        return false;
+
+    function validarFormulario(event) {
+        event.preventDefault();
+
+      
+        const email = document.getElementById('inputEmail4').value.trim();
+        const senha = document.getElementById('Senha').value.trim();
+        if (email === '' || senha === '') {
+            alert('Por favor, preencha todos os campos antes de continuar.');
+        } else {
+            // Se os campos estiverem preenchidos, redireciona para outro site (exemplo: google.com)
+            window.location.href = "tela.html"
+        }
     }
- 
-    // Outras verificações de validação podem ser adicionadas aqui
- 
-    // Se todos os campos estiverem preenchidos
-    return true;
-}
+
+    // Adiciona um evento de submissão ao formulário
+    document.querySelector('form').addEventListener('submit', validarFormulario);

@@ -11,8 +11,9 @@ body {
 }
 
 .login {
-    width: 30%;
+    width: 425px;
     margin: auto;
+ 
 }
 
 input {
@@ -26,6 +27,7 @@ button {
     border-radius: 0.7rem;
     background-color: black;
     color: white;
+    width: 40%;
 }
 
 h1 {
@@ -44,4 +46,14 @@ h1 {
 .btn{
     width: 425px;
     height: 40px;
+}
+.form{
+    border-radius: 2px;
+    border-style: solid;
+    width: 60%;
+    align-items: center;
+    margin: 35%;
+    margin-top: 30%;
+    text-align: center;
+    position: relative;
 }
