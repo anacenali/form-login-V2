@@ -1,7 +1,7 @@
 # 🚀 Form-login-V2
-|Form login V2 é a melhora do site form login, onde foi adicionado a funcionalidade de lembrar a senha.
+Form login V2 é a melhora do site form login, onde foi adicionado a funcionalidade de lembrar a senha.
 ## 📋 Sobre o Form-login
-O projeto de form-login foi realizado composto pela seguinte matéria:
+O projeto de form-login-V2 foi realizado composto pela seguinte matéria:
 ### Programação web I
 Criamos um web site para conseguirmos ter contato nossos clientes e estilizamos usando VSCode. Em seguida criamos um form-login para conseguirem ter acesso a sua conta. E agora adicionamos a opção de lembrar a senha.
 ## 📄 Descrição do projeto
